@@ -6,12 +6,22 @@ body {
 }
 
 h1 {
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     font-size: 600%;
 }
 
+h2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 238, 82);
+    font-size: 400%;
+}
+
+
 p {
+    text-align: center;
     color: rgb(255, 238, 82);
     font-family: 'Courier New', Courier, monospace;
     font-size: 150%;
@@ -45,15 +55,24 @@ li a:hover {
 
 .accent {
     color:rgb(255, 82, 241);
-    font-weight: bold;
+}
+
+.accent-code {
+    color: rgb(54, 172, 0);
+    text-align: left;
 }
 
 .header {
-    text-align: center;
     margin: 0;
     padding: 100px;
     background-image: url("../pictures/header-bg.png");
     background-size: contain;
     background-size: 130%;
     background-position-x: -100px;
+}
+
+.section {
+    padding: 0;
+    margin: 0;
+    padding: 50px;
 }
