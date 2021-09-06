@@ -1,78 +1,88 @@
+:root {
+    --primary-font: 'Trebuchet MS';
+
+    /* Font Sizes */
+    --navbar-font-size: 1.2em;
+    --primary-font-size: 3.7em;
+    --secondary-font-size: 1.2em;
+
+    /* Background Colours */
+    --navbar-colour: rgb(41, 41, 41);
+    --background-header: rgb(240, 240, 240);
+    
+    /* Font Colours */
+    --navbar-font-colour: rgb(10, 10, 10);
+    --primary-font-colour: rgb(255, 255, 255);
+    --secondary-font-colour: rgb(199, 199, 199);
+
+    --accent1: rgb(135, 40, 224);
+}
+
 body {
-    background-color: #181818;
     padding: 0;
-    overflow-x: hidden;
     margin: 0;
-}
 
-h1 {
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: white;
-    font-size: 600%;
-}
-
-h2 {
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(255, 238, 82);
-    font-size: 400%;
-}
-
-
-p {
-    text-align: center;
-    color: rgb(255, 238, 82);
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 150%;
+    
+    overflow-x: hidden;
 }
 
 ul {
-    list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 10px;
+    width: 100%;
+    
+    list-style-type: none;
     overflow: hidden;
-    background-color: rgb(46, 46, 46);
-}
+    font-family: var(--primary-font);
+    background-color: var(--navbar-colour);
+    font-size: var(--navbar-font-size);
+    color: var(--navbar-font-colour);
+  }
   
 li {
-    float: left;
-}
-  
-li a {
+    float: right;
     display: block;
-    color: rgb(255, 238, 82);
-    text-align: center;
-    padding: 14px 16px;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+li a {
     text-decoration: none;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-
-li a:hover {
-    font-weight: bold;
-}
-
-.accent {
-    color:rgb(255, 82, 241);
-}
-
-.accent-code {
-    color: rgb(54, 172, 0);
-    text-align: left;
+    color: var(--navbar-font-colour);
 }
 
 .header {
-    margin: 0;
-    padding: 100px;
-    background-image: url("../pictures/header-bg.png");
-    background-size: contain;
-    background-size: 130%;
-    background-position-x: -100px;
+    padding: 50;
+    height: 75%;
+
+    background-color: var(--background-header);
+    font-family: var(--primary-font);
+    color: var(--primary-font-colour);
 }
 
-.section {
-    padding: 0;
-    margin: 0;
-    padding: 50px;
+.header p {
+    width: 400px;
+}
+
+.accent {
+    color: var(--accent1);
+}
+
+h1 {
+    font-size: var(--primary-font-size);
+}
+
+p {
+    font-size: var(--secondary-font-size);
+    color: var(--secondary-font-colour);
+}
+
+@media (max-width: 700px) {
+    .header {
+        text-align: center;
+    }
+
+    .header p {
+        width: 100%;
+    }
 }
