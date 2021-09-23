@@ -2,71 +2,27 @@
     --primary-font: 'Trebuchet MS';
 
     /* Font Sizes */
-    --navbar-font-size: 1.2em;
     --primary-font-size: 3.7em;
     --secondary-font-size: 1.2em;
-
-    /* Background Colours */
-    --navbar-colour: rgb(41, 41, 41);
-    --background-header: rgb(240, 240, 240);
     
     /* Font Colours */
-    --navbar-font-colour: rgb(10, 10, 10);
-    --primary-font-colour: rgb(255, 255, 255);
-    --secondary-font-colour: rgb(199, 199, 199);
+    --primary-font-colour: rgb(26, 26, 26);
+    --secondary-font-colour: rgb(58, 58, 58);
 
     --accent1: rgb(135, 40, 224);
 }
 
 body {
-    padding: 0;
+    padding: 30px;
+    text-align: center;
     margin: 0;
+    background-color: rgb(240, 240, 240);
+    font-family: var(--primary-font);
 
     
     overflow-x: hidden;
 }
 
-ul {
-    margin: 0;
-    padding: 10px;
-    width: 100%;
-    
-    list-style-type: none;
-    overflow: hidden;
-    font-family: var(--primary-font);
-    background-color: var(--navbar-colour);
-    font-size: var(--navbar-font-size);
-    color: var(--navbar-font-colour);
-  }
-  
-li {
-    float: right;
-    display: block;
-    padding: 8px;
-    margin-right: 10px;
-}
-
-li a {
-    text-decoration: none;
-    color: var(--navbar-font-colour);
-}
-
-.header {
-    padding: 50;
-    height: 75%;
-
-    background-color: var(--background-header);
-    font-family: var(--primary-font);
-    color: var(--primary-font-colour);
-}
-
-.header p {
-    width: 400px;
-}
-
-.accent {
-    color: var(--accent1);
-}
 
 h1 {
     font-size: var(--primary-font-size);
@@ -75,14 +31,4 @@ h1 {
 p {
     font-size: var(--secondary-font-size);
     color: var(--secondary-font-colour);
-}
-
-@media (max-width: 700px) {
-    .header {
-        text-align: center;
-    }
-
-    .header p {
-        width: 100%;
-    }
 }
