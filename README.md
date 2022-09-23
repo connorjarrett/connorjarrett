@@ -3,9 +3,8 @@
 Welcome to my GitHub profile!
 
 Website:
-https://conjardev.github.io/conjardev/
-
-Looks like GitHub pages doesn't support PHP so this link goes to an old website, soon to be updated
+https://conjardev.github.io/conjardev/<br>
+:construction: Under construction :construction: 
 
 <!--
 **conjardev/conjardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
