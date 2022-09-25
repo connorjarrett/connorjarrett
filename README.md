@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 Website:
-https://conjardev.github.io/conjardev/<br>
+https://conjardev.github.io/<br>
 :construction: Under construction :construction: 
 
 <!--
