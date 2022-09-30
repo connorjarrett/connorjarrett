@@ -1,10 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi There, I'm Connor!</h1>
+<h3 align="center">Full Stack Website Developer</h3><br><br>
 
-Welcome to my GitHub profile!
-
-Website:
-https://conjardev.github.io/<br>
-:construction: Under construction :construction: 
+**Check out my [portfolio](https://conjardev.github.io)** :construction: Under construction :construction: <br>
 
 <!--
 **conjardev/conjardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
