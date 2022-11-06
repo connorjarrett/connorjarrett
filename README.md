@@ -31,8 +31,10 @@
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conjardev&theme=dark&layout=compact&hide_border=true&bg_color=22272e" alt="conjardev" />
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=conjardev&show_icons=true&theme=dark&hide_border=true&bg_color=22272e" alt="conjardev" />
 <img src="https://ghchart.rshah.org/conjardev" alt="conjardev" />
+-->
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=conjardev.conjardev" alt="visitors"></p>
 <p>🏆 Many thanks to <a href="https://github.com/Spiderpig86">Stanley Lim</a>, whose <a href="https://github.com/Spiderpig86/Spiderpig86">readme</a> and <a href="https://github.com/Spiderpig86/Spiderpig86/blob/master/index.js">code</a> I used elements from.</p>
