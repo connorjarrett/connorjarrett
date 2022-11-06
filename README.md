@@ -9,7 +9,7 @@
 <li>💻 Check out <a href="https://connorjarrett.com">my website</a></li>
 <li>:octocat: My projexts are available on <a href="https://github.com/conjardev">GitHub</a></li>
 <li>💬 Feel free to <a href="https://connorjarrett.com#contact">drop a message</a></li>
-<li>I need more</li>
+<li>🎉 Fun Fact:</li>
 </ul>
 <h2>Tools I use</h2>
 <p align="left">
