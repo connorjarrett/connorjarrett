@@ -60,7 +60,7 @@ const factsConfig = [
     `💻 Check out ${generateLink("my website", "https://connorjarrett.com")}`,
     `:octocat: My projexts are available on ${generateLink("GitHub", "https://github.com/conjardev")}`,
     `💬 Feel free to ${generateLink("drop a message", "https://connorjarrett.com#contact")}`,
-    `🎉 Fun Fact:`
+    `🎉 Fun Fact: I've been into web development since around the age of 6! (But they weren't very good)`
 ]
 const facts = factsConfig.reduce((result, fact) => result + `\n - ${fact}`, '');
 
@@ -139,6 +139,7 @@ const vistors = `![visitors](https://visitor-badge.glitch.me/badge?page_id=conja
 
 // Footer
 const footer = `🏆 Many thanks to [Stanley Lim](https://github.com/Spiderpig86), whose [readme](https://github.com/Spiderpig86/Spiderpig86) and [code](https://github.com/Spiderpig86/Spiderpig86/blob/master/index.js) I used elements from.`
+const learn = `${generateLink("Learn more", "https://github.com/conjardev/conjardev/blob/main/info.md")} about how I made this`
 
 // Compile sections into content
 const content = `${title}\n
@@ -156,8 +157,9 @@ ${languages}\n
 ${stats}\n
 ${contribution}\n
 </p>\n
-${vistors}
-\n${footer}
+${vistors}\n\n
+${footer}\n
+${learn}
 \n --- \n
 <p align="center">Made with &hearts; by <a href="https://connorjarrett.com">Connor Jarrett</a></p>
 `
