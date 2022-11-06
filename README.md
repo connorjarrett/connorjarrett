@@ -9,7 +9,7 @@
 <li>💻 Check out <a href="https://connorjarrett.com">my website</a></li>
 <li>:octocat: My projexts are available on <a href="https://github.com/conjardev">GitHub</a></li>
 <li>💬 Feel free to <a href="https://connorjarrett.com#contact">drop a message</a></li>
-<li>🎉 Fun Fact:</li>
+<li>🎉 Fun Fact: I've been into web development since around the age of 6! (But they weren't very good)</li>
 </ul>
 <h2>Tools I use</h2>
 <p align="left">
@@ -36,5 +36,6 @@
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=conjardev.conjardev" alt="visitors"></p>
 <p>🏆 Many thanks to <a href="https://github.com/Spiderpig86">Stanley Lim</a>, whose <a href="https://github.com/Spiderpig86/Spiderpig86">readme</a> and <a href="https://github.com/Spiderpig86/Spiderpig86/blob/master/index.js">code</a> I used elements from.</p>
+<p><a href="https://github.com/conjardev/conjardev/blob/main/info.md">Learn more</a> about how I made this</p>
 <hr>
 <p align="center">Made with &hearts; by <a href="https://connorjarrett.com">Connor Jarrett</a></p>
