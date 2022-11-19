@@ -4,7 +4,7 @@
 <img align='right' src='https://media1.giphy.com/media/rcOlpTCkM1GAE/giphy.gif?cid=ecf05e4792woyx5oobvkmixox59j8eoyddawh7vz8uhffsv0&rid=giphy.gif&ct=g' />
 <h2>⚡ Some facts about me</h2>
 <ul>
-<li>🔭 I'm current working on <b>making a blog</b></li>
+<li>🔭 I'm current working on <b>making a website designer</b></li>
 <li>🤔 Learning about <b>KVM</b></li>
 <li>💻 Check out <a href="https://connorjarrett.com">my website</a></li>
 <li>:octocat: My projexts are available on <a href="https://github.com/conjardev">GitHub</a></li>
