@@ -51,16 +51,24 @@ const badgeConfigs = [
 ]
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
+const gifURL = "https://ubistatic19-a.akamaihd.net/resource/en-us/game/watchdogs/watchdogs/wd_hw_drones_security-drone_550_ncsa.gif"
+const gif = `<img align='right' src='${gifURL}' />`
+
 // Fun facts
-const gif = "<img align='right' src='https://media1.giphy.com/media/rcOlpTCkM1GAE/giphy.gif?cid=ecf05e4792woyx5oobvkmixox59j8eoyddawh7vz8uhffsv0&rid=giphy.gif&ct=g' />"
 const funFactsTitle = generateTitle(2, ":zap: Some facts about me")
+
+const factsData = {
+    "workingOn":["Cade","https://cade.dev"],
+    "learningAbout":["SEO"]
+}
+
 const factsConfig = [
-    `🔭 I'm current working on <b>making a blog</b>`,
-    `🤔 Learning about <b>KVM</b>`,
+    `🔭 I'm current working on <b>${generateLink(factsData["workingOn"][0],factsData["workingOn"][1])}</b>`,
+    `🤔 Learning about <b>${factsData["learningAbout"][0]}</b>`,
     `💻 Check out ${generateLink("my website", "https://connorjarrett.com")}`,
     `:octocat: My projexts are available on ${generateLink("GitHub", "https://github.com/conjardev")}`,
     `💬 Feel free to ${generateLink("drop a message", "https://connorjarrett.com#contact")}`,
-    `🎉 Fun Fact: I've been into web development since around the age of 6! (But they weren't very good)`
+    `🎉 Fun Fact: My favourite video game is Watch_Dogs 2`
 ]
 const facts = factsConfig.reduce((result, fact) => result + `\n - ${fact}`, '');
 

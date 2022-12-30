@@ -4,12 +4,12 @@
 <img align='right' src='https://ubistatic19-a.akamaihd.net/resource/en-us/game/watchdogs/watchdogs/wd_hw_drones_security-drone_550_ncsa.gif' />
 <h2>⚡ Some facts about me</h2>
 <ul>
-<li>🔭 I'm current working on <b>making a website designer</b></li>
-<li>🤔 Learning about <b>KVM</b></li>
+<li>🔭 I'm current working on <b><a href="https://cade.dev">Cade</a></b></li>
+<li>🤔 Learning about <b>SEO</b></li>
 <li>💻 Check out <a href="https://connorjarrett.com">my website</a></li>
 <li>:octocat: My projexts are available on <a href="https://github.com/conjardev">GitHub</a></li>
 <li>💬 Feel free to <a href="https://connorjarrett.com#contact">drop a message</a></li>
-<li>🎉 Fun Fact: I've been into web development since around the age of 6! (But they weren't very good)</li>
+<li>🎉 Fun Fact: My favourite video game is Watch_Dogs 2</li>
 </ul>
 <h2>Tools I use</h2>
 <p align="left">
@@ -31,10 +31,8 @@
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conjardev&theme=dark&layout=compact&hide_border=true&bg_color=22272e" alt="conjardev" />
-<!--
 <img src="https://github-readme-stats.vercel.app/api?username=conjardev&show_icons=true&theme=dark&hide_border=true&bg_color=22272e" alt="conjardev" />
 <img src="https://ghchart.rshah.org/conjardev" alt="conjardev" />
--->
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=conjardev.conjardev" alt="visitors"></p>
 <p>🏆 Many thanks to <a href="https://github.com/Spiderpig86">Stanley Lim</a>, whose <a href="https://github.com/Spiderpig86/Spiderpig86">readme</a> and <a href="https://github.com/Spiderpig86/Spiderpig86/blob/master/index.js">code</a> I used elements from.</p>
