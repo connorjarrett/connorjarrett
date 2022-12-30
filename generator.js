@@ -52,7 +52,7 @@ const badgeConfigs = [
 const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBadge(config), '');
 
 const gifURL = "https://ubistatic19-a.akamaihd.net/resource/en-us/game/watchdogs/watchdogs/wd_hw_drones_security-drone_550_ncsa.gif"
-const gif = `<img align='right' width="50%" src='${gifURL}' />`
+const gif = `<img align='right' src='${gifURL}' />`
 
 // Fun facts
 const funFactsTitle = generateTitle(2, ":zap: Some facts about me")
