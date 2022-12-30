@@ -1,7 +1,7 @@
 <h2>Hey there, I'm <a href="https://www.connorjarrett.com/">Connor</a> 👋</h2>
 <p>I'm a full stack website developer based in the UK. I am working on building my brand and just generally enjoying myself.</p>
 <p><a href="https://www.connorjarrett.com/"><img src="https://img.shields.io/badge/-connorjarrett.com-f7f016?style=flat-square&amp;labelColor=f7f016&amp;logo=Google-Chrome&amp;logoColor=black&amp;link=https://www.connorjarrett.com/" alt="Website Badge"></a> <a href="https://twitter.com/ConnorJrt"><img src="https://img.shields.io/badge/-@ConnorJrt-1DA1F2?style=flat-square&amp;labelColor=1DA1F2&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/ConnorJrt" alt="Twitter Badge"></a> <a href="https://github.com/conjardev"><img src="https://img.shields.io/badge/-conjardev-e8e8e8?style=flat-square&amp;labelColor=e8e8e8&amp;logo=GitHub&amp;logoColor=black&amp;link=https://github.com/conjardev" alt="Github Badge"></a></p>
-<img align='right' src='https://media1.giphy.com/media/rcOlpTCkM1GAE/giphy.gif?cid=ecf05e4792woyx5oobvkmixox59j8eoyddawh7vz8uhffsv0&rid=giphy.gif&ct=g' />
+<img align='right' src='https://ubistatic19-a.akamaihd.net/resource/en-us/game/watchdogs/watchdogs/wd_hw_drones_security-drone_550_ncsa.gif' />
 <h2>⚡ Some facts about me</h2>
 <ul>
 <li>🔭 I'm current working on <b>making a website designer</b></li>
