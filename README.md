@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.connorjarrett.com/media/avatar.png">
+    <!-- <img src="https://www.connorjarrett.com/media/avatar.png"> -->
     <h1>Hi, I'm Connor :wave:</h1>
     <b>I'm a full stack engineer and designer who specialises in web based content</b>
     <br><br>
