@@ -1,17 +1,17 @@
 <div align="center">
     <!-- <img src="https://www.connorjarrett.com/media/avatar.png"> -->
     <h1>Hi, I'm Connor :wave:</h1>
-    <b>I'm a full stack engineer and designer who specialises in web based content</b>
+    <b>I'm a full stack engineer, designer, and student who specialises in web based content</b>
     <br><br>
     <p>
     <a href="https://www.connorjarrett.com/">
-        <img src="https://img.shields.io/badge/-My Website-white?style=for-the-badge&amp;link=https://www.connorjarrett.com/" alt="Website Badge">
+        <img src="https://img.shields.io/badge/-My Website-eeeeee?style=for-the-badge&amp;link=https://www.connorjarrett.com/" alt="Website Badge">
     </a>
     <a href="https://twitter.com/connorjrt">
-        <img src="https://img.shields.io/badge/-Twitter-white?style=for-the-badge&amp;link=https://twitter.com/connorjrt" alt="Twitter Badge">
+        <img src="https://img.shields.io/badge/-Twitter-eeeeee?style=for-the-badge&amp;link=https://twitter.com/connorjrt" alt="Twitter Badge">
     </a>
     <a href="https://labnotebook.connorjarrett.com">
-        <img src="https://img.shields.io/badge/-My Blog-white?style=for-the-badge&amp;link=https://labnotebook.connorjarrett.com" alt="Blog Badge">
+        <img src="https://img.shields.io/badge/-My Blog-eeeeee?style=for-the-badge&amp;link=https://labnotebook.connorjarrett.com" alt="Blog Badge">
     </a>
     </p>
 </div>
