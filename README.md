@@ -3,7 +3,7 @@
     <u><b>Connor Jarrett</b></u>
 
     I'm a creative based in the UK.
-    I love to use design, code and writing to realise my creative passions.
+    I love to use design, video and technology to realise my creative passions.
 
     Find some of my projects below
 
